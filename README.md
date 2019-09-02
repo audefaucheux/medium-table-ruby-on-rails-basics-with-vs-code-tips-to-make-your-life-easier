@@ -1,0 +1,1 @@
+# medium-table-ruby-on-rails-basics-with-vs-code-tips-to-make-your-life-easier
